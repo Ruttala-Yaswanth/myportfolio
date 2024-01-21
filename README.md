@@ -1,3 +1,7 @@
+![yash pic](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/7dc05f0d-859a-4a03-a025-00ac0c41b0bc)
+![LinkedIn-Logo](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/39cbba5c-9c6a-45fb-a4d2-12aae80e3b53)
+![instagram-logo](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/102639be-c149-49f0-b757-d2bffa438c7f)
+![github icon](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/8df37003-6ecd-4c4c-ab20-5a95b9e06cdc)
 <!DOCTYPE html><html lang="en">
 <head>
     <meta charset="UTF-8">
