@@ -13,19 +13,19 @@
 <body>
     <div class="home main">
         <h1>Hey hi,<br>I am <strong class="name">RUTTALA YASWANTH,</strong><br>Full stack web developer</h1>
-        <img src="./image/yash pic.jpg" alt="my image"/>
+        <img src="[./image/yash pic.jpg](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/7dc05f0d-859a-4a03-a025-00ac0c41b0bc)" alt="my image"/>
     </div>
      <div class="home lower">
         <a href="./about.html"><button class="button">click here to know about me</button></a>
         <div>
             <a href="https://www.linkedin.com/in/ruttala-yaswanth">
-                <img src="./image/LinkedIn-Logo.jpg" alt="linkedin" class="social-icon-img"/>
+                <img src="[./image/LinkedIn-Logo.jpg](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/39cbba5c-9c6a-45fb-a4d2-12aae80e3b53)" alt="linkedin" class="social-icon-img"/>
             </a>
             <a href="https://github.com/Ruttala-Yaswanth">
-                <img src="./image/github icon.png" alt="github" class="social-icon-img"/>
+                <img src="[./image/github icon.png" alt="github](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/8df37003-6ecd-4c4c-ab20-5a95b9e06cdc)" class="social-icon-img"/>
             </a>
             <a href="https://www.instagram.com/yaswanth___ruttala">
-                <img src="./image/instagram-logo.png" alt="instagram" class="social-icon-img">
+                <img src="[./image/instagram-logo.png](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/8df37003-6ecd-4c4c-ab20-5a95b9e06cdc)" alt="instagram" class="social-icon-img">
             </a>
         </div>
     </div>
@@ -56,8 +56,8 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Poppins:wght@300&display=swap');
 body{
-    background-color: rgb(205, 246, 255);
-    background-image: url(./image/background\ img-portfolio.webp);
+    background-color: black);
+    background-image: url([./image/background\ img-portfolio.webp](https://i.ibb.co/W6S5hwt/background-img-portfolio.webp));
     background-size: cover;
 }
 h1{
