@@ -1,9 +1,3 @@
-![yash pic](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/fc1bb1ad-1090-4faa-8b80-c2f0907f7d26)
-![LinkedIn-Logo](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/a9400d1c-f5dc-4b01-9032-89804ac25ef2)
-![instagram-logo](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/0679e36e-4420-41a5-8e2b-8fd8a6c89418)
-![github icon](https://github.com/Ruttala-Yaswanth/myportfolio/assets/150068079/34facac4-4d25-4979-b9d1-9413f7e8bb96)
-
-
 <!DOCTYPE html><html lang="en">
 <head>
     <meta charset="UTF-8">
