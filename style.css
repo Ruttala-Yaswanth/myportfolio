@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Poppins:wght@300&display=swap');
+body{
+    background-color: rgb(205, 246, 255);
+    background-image: url(./image/background\ img-portfolio.webp);
+    background-size: cover;
+}
+h1{
+    color: aliceblue;
+}
+img{
+    width: 300px;
+    height: auto;
+    border-radius: 50%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    
+}
+
+.main{
+    height: 60vh;
+    padding: 50px;
+}
+
+.lower{
+    height: 100px;
+    padding: 20px;
+}
+.home{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.name{
+    color: rgba(0, 179, 255, 0.872);
+    font-family: 'DM Serif Display', serif;
+}
+
+.button{
+    background-color: darkseagreen;
+    height: 40px;
+    width: auto;
+    border-width: 0px;
+    border-radius: 12px;
+}
+
+h1{
+    font-family: 'Poppins', sans-serif;
+
+}
+
+.social-icon-img {
+    height: 50px;
+    width: auto;
+    padding: 10px;
+}
+.content{
+    background-color: rgba(255, 255, 255, 0.322);
+    color: white;
+    margin: 100px;
+    padding: 90px;
+    border-radius: 60px;
+}
