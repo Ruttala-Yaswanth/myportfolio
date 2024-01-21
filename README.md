@@ -56,7 +56,7 @@
 
 @import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&family=Poppins:wght@300&display=swap');
 body{
-    background-color: black;
+    background-color: rgb(205, 246, 255);
     background-image: url(./image/background\ img-portfolio.webp);
     background-size: cover;
 }
